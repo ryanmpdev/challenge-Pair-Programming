@@ -1,5 +1,6 @@
 export {default as Menu } from './Menu'
+export {default as About } from './About'
 export {default as Footer } from './Footer'
 export {default as Latest } from './Latest'
-export {default as About } from './About'
+export {default as Section } from './Section'
 export {default as Subcribe } from './Subscribe'

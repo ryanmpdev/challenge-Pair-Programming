@@ -1,14 +1,10 @@
 import styled from "styled-components";
 
 export const Container = styled.header`
-  /* top: 0;
-  z-index: 1; */
   height: 10vh;
   width: 100%;
   display: flex;
-  /* position: fixed; */
   align-items: center;
-  background-color: aqua;
   justify-content: space-between;
   
   img{
