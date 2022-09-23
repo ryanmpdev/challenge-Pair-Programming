@@ -6,9 +6,11 @@ export default createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    max-width: 1900px;
 }
 
 body{
-    background-color:#2a9d8f;
+width: 100%;
+
 }
 `

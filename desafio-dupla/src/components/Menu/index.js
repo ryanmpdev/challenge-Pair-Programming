@@ -1,6 +1,6 @@
 import React from 'react'
 import * as S from './style'
-import {Rc, Background} from '../../images'
+import { Rc } from '../../images'
 
 function Menu() {
   return (
@@ -14,7 +14,6 @@ function Menu() {
         <li>SUBSCRIBE</li>
       </ul>
       </nav>
-        
     </S.Container>
   )
 }

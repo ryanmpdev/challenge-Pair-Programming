@@ -1,11 +1,11 @@
 import React from 'react'
 import GlobalStyle from './global'
-import { Menu, Footer, Latest, About, Subcribe} from './components'
+import { Footer, Latest, About, Subcribe, Section} from './components'
 
 export default function App() {
   return (
     <div>
-      <Menu/>
+      <Section/>
       <Latest/>
       <About/>
       <Subcribe/>
