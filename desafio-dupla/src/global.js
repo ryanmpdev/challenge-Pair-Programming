@@ -9,8 +9,4 @@ export default createGlobalStyle`
     max-width: 1900px;
 }
 
-body{
-width: 100%;
-
-}
 `
