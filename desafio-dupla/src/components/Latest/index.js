@@ -15,6 +15,7 @@ function Latest() {
       <img src={Smoothie } alt="Peanut Smoothie" />
       <p>Peanut Smoothie</p>
     </S.Section>
+  )
 }
 
 export default Latest
