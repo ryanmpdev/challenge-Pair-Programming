@@ -1,21 +1,48 @@
 import styled from "styled-components";
 
 export const Section = styled.section `
-  background-color: #F2F4F1;
-`
-export const t1 = styled.div `
-    width: 536px;
-    height: 389px;
-    background-color: #FFFFFF;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
 `
 
-export const t2 = styled.div `
-    width: 536px;
-    height: 389px;
-    background-color: #FFFFFF;
+export const Pratos = styled.div`
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 `
-export const t3 = styled.div `
-    width: 536px;
-    height: 389px;
-    background-color: #FFFFFF;
+
+export const T1 = styled.div `
+    width: 31%;
+    height: 740px;
+    background-color: #0b8770;
+
+    img{
+        width: 100%;
+        height: 390px;
+    }
+`
+
+export const T2 = styled.div `
+    width: 31%;
+    height:740px;
+    background-color: #0b8770;
+
+    img{
+        width: 100%;
+        height: 390px;
+    }
+`
+export const T3 = styled.div `
+    width: 31%;
+    height: 740px;
+    background-color: #0b8770;
+
+    img{
+        width: 100%;
+        height: 390px;
+    }
 `
