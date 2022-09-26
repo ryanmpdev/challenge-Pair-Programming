@@ -4,19 +4,19 @@ import { Background } from '../../images'
 import styled from 'styled-components'
 
 export const Section = styled.section`
-    margin-top: 36px;
     width: 95%;
     height: 1250px;
-    background-image: url(${Background});
+    margin-top: 36px;
     background-size: contain;
     background-repeat: no-repeat;
+    background-image: url(${Background});
 
     h1{
       color: #373737;
       width: 50%;
-      font-size: 150px;
-      margin-left:25%;
       margin-top: 30%;
+      margin-left:25%;
+      font-size: 150px;
     }
 `
 
