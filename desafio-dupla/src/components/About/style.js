@@ -41,7 +41,7 @@ export const Text = styled.div`
    }
 
    p {
-      width: 85%;
+      width: 80%;
       color: #373737;
       font-size: 24px;
       margin-top: 90px;
