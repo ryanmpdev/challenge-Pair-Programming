@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const Section = styled.section `
- margin-top: 0px;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+    margin-top: 0px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 
   h1 {
     font-size: 50px;

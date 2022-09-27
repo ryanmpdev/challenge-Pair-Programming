@@ -1,10 +1,16 @@
 import React from 'react'
 import * as S from './style'
+import { Instagram, Pinterest, Facebook, Twitter } from '../../images'
 
 function Footer() {
   return (
     <S.Container>
-    <h1>Footer</h1>
+    <S.Redes>
+      <img src={Instagram} alt="instagram" />
+      <img src={Twitter} alt="Twiter" />
+      <img src={Facebook} alt="Facebook" />
+      <img src={Pinterest} alt="Pinterest" />
+    </S.Redes>
    </S.Container>
   )
 }
