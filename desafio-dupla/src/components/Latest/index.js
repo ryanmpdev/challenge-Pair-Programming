@@ -5,8 +5,10 @@ import { Red, Margherita, Smoothie } from '../../images'
 function Latest() {
   return (
     <S.Section>
+        <S.t0>
         <h1>LATEST RECIPES</h1>
         <div></div>
+        </S.t0>
       <S.Pratos>
       <S.T1>
         <div></div>

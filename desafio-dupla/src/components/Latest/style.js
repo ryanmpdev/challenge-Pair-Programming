@@ -6,13 +6,20 @@ export const Section = styled.section `
     display: flex;
     align-items: center;
     flex-direction: column;
-
-  h1 {
+`
+export const t0 = styled.div `
+    h1 {
     font-size: 50px;
-  }
-  div{
-   background-color: black;
-  }
+    }
+    div{
+        height: 3px;
+        width: 100px;
+        margin-bottom: 15px;
+        margin-left: 130px;
+        border-radius: 4px;
+        background-color: #373737;
+     }
+  
 `
 
 export const Pratos = styled.div`
