@@ -1,8 +1,17 @@
 import React from 'react'
+import * as S from './style'
+
 
 function Subcribe() {
   return (
-    <h1>Subcribe</h1>
+     <S.Section>
+      <h1>SUBSCRIBE</h1>
+      <p>Sign up for newsletter</p>
+      <form>
+        <input type="text" placeholder='Your Email'/>
+        <button>SUBMIT</button>
+      </form>
+     </S.Section>
   )
 }
 
