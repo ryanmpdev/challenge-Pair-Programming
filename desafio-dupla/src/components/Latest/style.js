@@ -42,8 +42,16 @@ export const T1 = styled.div `
     }
 
     p{
-    padding: 8rem;
+    padding: 2rem;
     font-size: 32px;
+    }
+    div{
+        height: 3px;
+        width: 50px;
+        margin-top: 130px;
+        margin-left: 160px;
+        border-radius: 4px;
+        background-color: #373737; 
     }
 `
 
@@ -60,8 +68,16 @@ export const T2 = styled.div `
     }
 
     p{
-        padding: 8rem;
+        padding: 2rem;
         font-size: 32px;
+    }
+    div{
+        height: 3px;
+        width: 50px;
+        margin-top: 130px;
+        margin-left: 160px;
+        border-radius: 4px;
+        background-color: #373737; 
     }
 `
 export const T3 = styled.div `
@@ -77,7 +93,15 @@ export const T3 = styled.div `
     }
 
     p{
-        padding: 8rem;
+        padding: 2rem;
         font-size: 32px;
+    }
+    div{
+        height: 3px;
+        width: 50px;
+        margin-top: 130px;
+        margin-left: 160px;
+        border-radius: 4px;
+        background-color: #373737; 
     }
 `
