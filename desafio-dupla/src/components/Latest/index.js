@@ -11,20 +11,20 @@ function Latest() {
         </S.t0>
       <S.Pratos>
       <S.T1>
-        <div></div>
         <img src={Red} alt="Red Velvet Cake" />
+        <div></div>
         <p>Red Velvet Cake</p>
       </S.T1>
 
       <S.T2>
-        <div></div>
         <img src={Margherita } alt="Margherita Pizza" />
+        <div></div>
         <p>Margherita Pizza</p>
       </S.T2>
 
       <S.T3>
-        <div></div>
         <img src={Smoothie } alt="Peanut Smoothie" />
+        <div></div>
         <p>Peanut Smoothie</p>
       </S.T3>      
       </S.Pratos>  
